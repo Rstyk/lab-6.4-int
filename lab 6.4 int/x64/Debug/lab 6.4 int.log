@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  lab 6.4 int.cpp
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(41,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(63,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 6.4 int\lab 6.4 int\lab 6.4 int.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\ACER\source\repos\laba 6.4 int\x64\Debug\lab 6.4 int.lib and object C:\Users\ACER\source\repos\laba 6.4 int\x64\Debug\lab 6.4 int.exp
+  lab 6.4 int.vcxproj -> C:\Users\ACER\source\repos\laba 6.4 int\x64\Debug\lab 6.4 int.dll

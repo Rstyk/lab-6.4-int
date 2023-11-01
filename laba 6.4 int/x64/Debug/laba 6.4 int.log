@@ -1,0 +1,5 @@
+﻿  laba 6.4 int.cpp
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(41,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 6.4 int\laba 6.4 int\laba 6.4 int.cpp(63,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  laba 6.4 int.vcxproj -> C:\Users\ACER\source\repos\laba 6.4 int\x64\Debug\laba 6.4 int.exe
